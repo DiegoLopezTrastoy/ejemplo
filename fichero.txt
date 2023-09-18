@@ -1,2 +1,2 @@
-linea 1
+Primera línea
 linea 2
